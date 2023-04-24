@@ -14,20 +14,6 @@
             ],
             "env": {}
         },
-        // {
-        //     "name": "xelatexmk",
-        //     "command": "latexmk",
-        //     "args": [
-        //         "-xelatex",
-        //         "-synctex=1",
-        //         "-interaction=nonstopmode",
-        //         "-file-line-error",
-        //         "-pdf",
-        //         "-outdir=%OUTDIR%",
-        //         "%DOC%"
-        //     ],
-        //     "env": {}
-        // }
     ],
     "latex-workshop.latex.recipes": [
         {
